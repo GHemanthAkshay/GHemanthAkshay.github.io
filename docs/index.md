@@ -17,3 +17,5 @@ Hi, I'm **Akshay**, an **Electronics and Communication Engineering (ECE)** stude
 ## Quick Links
 * 💻 [GitHub Profile](https://github.com/GHemanthAkshay)
 * 💼 [LinkedIn Profile](https://www.linkedin.com/in/hemanth-akshay-g/)
+
+copyright: Copyright &copy; 2026 G H Akshay
