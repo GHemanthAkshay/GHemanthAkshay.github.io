@@ -7,7 +7,7 @@
 ## About Me
 Electronics and Communication Engineering student focused on building strong fundamentals in Python, C/C++, system architectures, and hardware-software integration. 
 
-I document my engineering journey transparently through code repositories and technical write-ups.
+I document my engineering journey through code repositories and technical write-ups.
 
 ---
 
