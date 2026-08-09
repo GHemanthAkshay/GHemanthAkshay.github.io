@@ -9,6 +9,11 @@ theme:
     scheme: slate
     primary: indigo
     accent: blue
-  
+
+# Add this section to remove the search bar:
+plugins:
+  - search:
+      enabled: false
+
 nav:
   - Home: index.md
