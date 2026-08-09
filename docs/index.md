@@ -11,6 +11,11 @@ I document my engineering journey through code repositories and technical write-
 
 ---
 
+## How This Site Works
+> "I write my notes in Markdown, and I set up MkDocs on GitHub Pages to generate my portfolio automatically."
+
+---
+
 ## Quick Links
 * 💻 [GitHub Profile](https://github.com/GHemanthAkshay)
 * 💼 [LinkedIn Profile](https://www.linkedin.com/in/hemanth-akshay-g/)
