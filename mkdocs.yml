@@ -9,8 +9,6 @@ theme:
     scheme: slate
     primary: indigo
     accent: blue
-  features:
-    - navigation.tabs
-
+  
 nav:
   - Home: index.md
