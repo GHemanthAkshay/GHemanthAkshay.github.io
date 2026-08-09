@@ -12,7 +12,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
-    - search.suggest
 
 nav:
   - Home: index.md
