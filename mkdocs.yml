@@ -10,7 +10,11 @@ theme:
     primary: indigo
     accent: blue
 
-# Add this section to remove the search bar:
+extra:
+  analytics:
+    feedback:
+      title: ""
+      
 plugins:
   - search:
       enabled: false
