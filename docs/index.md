@@ -18,4 +18,4 @@ Hi, I'm **Akshay**, an **Electronics and Communication Engineering (ECE)** stude
 * 💻 [GitHub Profile](https://github.com/GHemanthAkshay)
 * 💼 [LinkedIn Profile](https://www.linkedin.com/in/hemanth-akshay-g/)
 
-copyright: Copyright &copy; 2026 G H Akshay
+ Copyright &copy; 2026 G H Akshay
