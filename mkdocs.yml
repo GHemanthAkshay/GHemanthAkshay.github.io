@@ -1,0 +1,19 @@
+site_name: Gouthu Hemanth Akshay | ECE Portfolio
+site_description: 1st Year ECE Student at Amrita Vishwa Vidyapeetham, Bengaluru
+site_author: Gouthu Hemanth Akshay
+site_url: https://ghemanthakshay.github.io/
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: indigo
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
